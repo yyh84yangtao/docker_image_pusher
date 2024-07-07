@@ -4,4 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu:latest
-gitea/runner-images:ubuntu-22.04-full
+gitea/runner-images:ubuntu-20.04-full-v24.07.01
