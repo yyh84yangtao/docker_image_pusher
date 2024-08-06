@@ -1,2 +1,1 @@
 gitea/runner-images:ubuntu-latest-full
-gitea/runner-images:ubuntu-22.04-full-v24.08.01
