@@ -1,1 +1,4 @@
+urielch/opencv-nodejs:latest
+thangphuocnguyen/opencv4nodejs-alpine:latest
+superiortech/opencv4nodejs:amd64
 gitea/runner-images:ubuntu-latest-full
