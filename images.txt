@@ -1,2 +1,2 @@
-urielch/opencv-nodejs:latest
-
+thangphuocnguyen/opencv4nodejs-alpine:latest
+superiortech/opencv4nodejs:amd64
