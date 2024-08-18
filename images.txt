@@ -1,1 +1,2 @@
-gitea/runner-images:ubuntu-latest-full
+urielch/opencv-nodejs:latest
+
