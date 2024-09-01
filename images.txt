@@ -1,2 +1,2 @@
-thangphuocnguyen/opencv4nodejs-alpine:latest
-superiortech/opencv4nodejs:amd64
+node:18.20.4-alpine3.20
+
